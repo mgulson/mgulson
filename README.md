@@ -4,8 +4,8 @@ Michael is a Full-Stack Software Engineer passionate about technology. He is alw
 
 Please enjoy the personal projects that are demoed on my personal website
 
-[personal website](www.michaelgulson.com)
+[personal website](https://www.michaelgulson.com)
 
-- [personal-website](www.github.com/mgulson/personal-website)
-- [coding-languages](www.github.com/mgulson/coding-languages)
-- [michaelgpt](www.github.com/mgulson/michaelgpt)
+- [personal-website](https://www.github.com/mgulson/personal-website)
+- [coding-languages](https://www.github.com/mgulson/coding-languages)
+- [michaelgpt](https://www.github.com/mgulson/michaelgpt)
